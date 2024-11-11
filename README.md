@@ -2,7 +2,7 @@
 I'm currently working on blogging-website.<br>I'm looking to work with a start-ups and ready to secure Internship (while learning).<br>You can discuss to me about JS(Java-script),React/Next Js .<br>Although we Can contribute in open source.<br>Football and Programming :)<br>Fun Fact : I'm better than CR7 (in football)and Linus Torvalds (in programming)
 
 
-## 🌐 Socials:
+## 🌐 let's Connect:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/moosaharoon2) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Moosa Haroon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moosa___nov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moosa-haroon-909342261/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@moosaharoon6nov) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/moosa___nov ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:25078020) 
 
 # 💻 Tech Stack:
@@ -15,7 +15,7 @@ I'm currently working on blogging-website.<br>I'm looking to work with a start-u
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MoosaHaroon6&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote For Devs
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
